@@ -1,0 +1,10 @@
+streamlit
+streamlit-chat
+pillow
+requests
+langchain
+tensorflow
+numpy
+opencv-python
+pypdf2
+patchify
